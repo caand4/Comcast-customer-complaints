@@ -13,10 +13,25 @@ Comcast is an American global telecommunication company. The firm has been provi
 ## Analysis Tasks
 
 ![image](https://github.com/caand4/Comcast-customer-complaints/assets/80293132/ec01a8f0-380c-4f20-ba33-640144da725d)
+## Complaint 
 
 ![image](https://github.com/caand4/Comcast-customer-complaints/assets/80293132/737aef02-c9f6-42c9-b7c2-0304a99913b2)
 
 ![image](https://github.com/caand4/Comcast-customer-complaints/assets/80293132/01ac561f-0a1a-41d2-9956-6827cb5fd3da)
+
+![image](https://github.com/caand4/Comcast-customer-complaints/assets/80293132/d571d675-92df-483f-a95e-05857224d088)
+
+![image](https://github.com/caand4/Comcast-customer-complaints/assets/80293132/ee50f910-f468-490b-b4cd-aebc310eec2d)
+
+![image](https://github.com/caand4/Comcast-customer-complaints/assets/80293132/a45e7d12-d793-4b5e-96d9-030f67f4fce5)
+
+![image](https://github.com/caand4/Comcast-customer-complaints/assets/80293132/4de549d4-5d58-44f4-aacb-0ce1117d3c73)
+
+
+
+
+
+
 
 
 
